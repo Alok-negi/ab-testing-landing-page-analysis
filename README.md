@@ -77,5 +77,3 @@ of the new page.
 - Google Colab
 
 ---
-
-## 📂 Project Structure
